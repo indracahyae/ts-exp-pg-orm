@@ -1,0 +1,27 @@
+{
+  "name": "exp-ts-pg-orm",
+  "version": "1.0.0",
+  "description": "express typescript postgresql typeorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon",
+    "build": "tsc",
+    "serve": "node dist/src/index.js"
+  },
+  "author": "indra",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "latest",
+    "@types/node": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "nodemon": "latest",
+    "path": "latest",
+    "pg": "latest",
+    "reflect-metadata": "latest",
+    "ts-node": "latest",
+    "typeorm": "latest",
+    "typescript": "latest"
+  }
+}
