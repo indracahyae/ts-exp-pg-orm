@@ -3,7 +3,7 @@ understanding basic RestApi with typescript express postgreSql typeORM
 
 ## Screenshots
 
-<img src="https://github.com/indracahyae/reactjs-tasks/blob/master/public/table.png">
+<img src="https://github.com/indracahyae/ts-exp-pg-orm/blob/master/public/table.png">
 <br><br>
 <!-- insomnia -->
 
