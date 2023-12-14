@@ -25,11 +25,11 @@ dependencies
 
 ## RestApi
 table: products, categories <br>
-add product (POST) localhost/api/products <br>
-get all product (GET) localhost/api/products <br>
-select one product (GET) localhost/api/products/:id <br>
-update product (PUT) localhost/api/products/:id <br>
-delete product (DELETE) localhost/api/products/:id <br>
+add product: (POST) localhost/api/products <br>
+get all product: (GET) localhost/api/products <br>
+select one product: (GET) localhost/api/products/:id <br>
+update product: (PUT) localhost/api/products/:id <br>
+delete product: (DELETE) localhost/api/products/:id <br>
 
 ## Run Locally
 - download or Clone this project
